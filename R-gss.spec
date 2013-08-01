@@ -10,7 +10,7 @@ License:          GPLv3
 URL:              http://cran.r-project.org/web/packages/gss/index.html
 Source0:          http://cran.r-project.org/src/contrib/gss_2.0-14.tar.gz
 Requires:         R-core
-BuildRequires:    R-devel
+BuildRequires:    R-devel libblas-devel liblapack-devel
 
 %description
 A comprehensive package for structural multivariate function 
