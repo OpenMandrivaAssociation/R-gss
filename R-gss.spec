@@ -7,7 +7,7 @@ Release:          1
 Summary:          General Smoothing Splines
 Group:            Sciences/Mathematics
 License:          GPLv3
-URL:              http://cran.r-project.org/web/packages/gss/index.html
+URL:              https://cran.r-project.org/web/packages/gss/index.html
 Source0:          http://cran.r-project.org/src/contrib/gss_2.0-15.tar.gz
 Requires:         R-core
 BuildRequires:    R-devel libblas-devel liblapack-devel
